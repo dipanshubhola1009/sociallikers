@@ -1,0 +1,103 @@
+.wraper{
+	padding: 0px 8% 0px 8%;
+	width: 100%;
+}
+
+
+/*------------------------------1st space-----------------*/
+.details{
+	margin: 30px 0px;
+	height: 250px;
+	background-color: grey;
+	padding: 10px 0px;
+}
+.imagespace{
+	margin:30px 0px;
+	height: 250px;
+	background-color: grey;
+	padding: 20px 50px;
+	vertical-align: auto;
+}
+
+/*------------------------------2nd space-----------------*/
+
+.bannerintro{
+	height: 350px;
+	background-color: grey;
+	padding: 10px 10px;
+}
+
+/*------------------------------3rd space-----------------*/
+
+
+.meetsimilar{
+	margin: 30px 0px;
+	height: 250px;
+	background-color: grey;
+	padding: 10px 0px;
+}
+
+.spaceforimage{
+	margin:30px 0px;
+	height: 250px;
+	background-color: grey;
+	padding: 20px 50px;
+	vertical-align: auto;
+}
+
+
+/*---------------------------4th space-------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------5nd space-----------------*/
+
+.popularmember{
+	height: 400px;
+	background-color: grey;
+	padding: 10px 10px;
+	margin: 30px 0px;
+}
+
+/*---------------------------6th space-------------------------*/
+
+.howitworks{
+	height: 400px;
+	background-color: grey;
+	padding: 30px 10px;
+}
+
+
+/*------------------------------7nd space-----------------*/
+
+.ourlatestpost{
+	height: 600px;
+	background-color: grey;
+	padding: 10px 10px;
+	margin: 30px 0px;
+}
+
+/*---------------------------8th space-------------------------*/
+
+.contactus{
+	height: 400px;
+	background-color: grey;
+	padding: 30px 10px;
+}
+
+
+/*------------------------------footer----------------------------*/
+
+.special-color-dark{
+	margin-top: 30px;
+	background-color: grey;
+}
